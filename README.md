@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 this is a counter app which is made for simple practice and overview functions in react
+this app not make for profetional uses
